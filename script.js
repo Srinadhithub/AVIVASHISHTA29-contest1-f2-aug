@@ -36,8 +36,8 @@ function concatenateArray() {
     { id: 2, name: 'jack', age: 20, profession: 'developer' },
     { id: 3, name: 'karen', age: 19, profession: 'admin' },
   ];
-  console.log(arr.concat(arr2));
-  // consoleArr();
+  arr=arr.concat(arr2));
+  consoleArr();
 }
 
 // Here is an example of how functions work,
